@@ -1,5 +1,5 @@
 # Install dependencies and build the source code
-FROM node:16.13.0-alpine AS builder
+FROM node:16.20.1-alpine AS builder
 
 # Change working directory
 WORKDIR /app
@@ -11,7 +11,7 @@ RUN npm install && \
     npm run build
 
 # Build image for deployment
-FROM node:16.13.0-alpine AS runner
+FROM node:16.20.1-alpine AS runner
 
 # Change working directory
 WORKDIR /app
