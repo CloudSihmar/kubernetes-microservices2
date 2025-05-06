@@ -79,7 +79,7 @@
         "routing-controllers": "^0.9.0",
         "routing-controllers-openapi": "^3.1.0",
         "swagger-ui-express": "^4.3.0",
-        "twilio": "^3.72.0",
+        "twilio": "^5.6.0",
         "typedi": "^0.10.0",
         "typeorm": "^0.2.41",
         "typeorm-typedi-extensions": "^0.4.1",
