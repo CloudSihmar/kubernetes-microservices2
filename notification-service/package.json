@@ -50,7 +50,7 @@
     "dependencies": {
         "@google-cloud/logging-winston": "^4.1.1",
         "amqplib": "^0.8.0",
-        "axios": "^0.24.0",
+        "axios": "^1.12.0",
         "child-process-promise": "^2.2.1",
         "class-transformer": "^0.5.1",
         "class-validator": "0.13.2",
@@ -79,7 +79,7 @@
         "routing-controllers": "^0.9.0",
         "routing-controllers-openapi": "^3.1.0",
         "swagger-ui-express": "^4.3.0",
-        "twilio": "^3.72.0",
+        "twilio": "^4.19.3",
         "typedi": "^0.10.0",
         "typeorm": "^0.2.41",
         "typeorm-typedi-extensions": "^0.4.1",
