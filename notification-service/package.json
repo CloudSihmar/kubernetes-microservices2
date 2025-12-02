@@ -48,7 +48,7 @@
         "singleton pattern"
     ],
     "dependencies": {
-        "@google-cloud/logging-winston": "^4.1.1",
+        "@google-cloud/logging-winston": "^6.0.0",
         "amqplib": "^0.8.0",
         "axios": "^0.24.0",
         "child-process-promise": "^2.2.1",
@@ -61,7 +61,7 @@
         "dotenv": "^10.0.0",
         "ejs": "^3.1.6",
         "env-var": "^7.1.1",
-        "express": "^4.17.2",
+        "express": "^4.22.0",
         "express-basic-auth": "^1.2.1",
         "express-winston": "^4.2.0",
         "glob": "^7.2.0",
