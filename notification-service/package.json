@@ -70,7 +70,7 @@
         "i18n": "^0.13.3",
         "mailgen": "^2.0.16",
         "mailgun-js": "^0.22.0",
-        "node-pushnotifications": "^2.0.0",
+        "node-pushnotifications": "^4.0.0",
         "openapi3-ts": "^2.0.1",
         "pg": "^8.7.1",
         "qs": "^6.10.2",
